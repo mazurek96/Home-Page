@@ -5,10 +5,6 @@ html{
     *, ::after, ::before{ 
      box-sizing: inherit;
     }
-    
-    
-    
-    
     .body{
         background-color: rgba(156, 140, 126, 0.329);
         font-family: 'Bruno Ace SC', cursive;
@@ -39,9 +35,6 @@ html{
     text-align-last:right
     }
     
-    
-    
-    
     .navigation__list{
         font-size: 20px;
         padding: 10px;
@@ -57,10 +50,6 @@ html{
         text-decoration: underline;
         background-color: #C1D811;
     }
-    
-    
-    
-    
     .przycisk{
         color: rgba(187, 42, 42, 0.971);
     text-align-last:right
@@ -128,18 +117,12 @@ html{
         text-align: center;
         text-decoration: underline;
     }
-    
-    
-    
-    
     .tableCell{
         border: 1px solid #0a5300;
         text-align: center;
         vertical-align: middle;
         align-items: center;
     }
-      
-    
     .tableCell2{
      border: 3px solid #131313;
     color: green;
